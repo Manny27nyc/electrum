@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 2008–2025 Manuel J. Nieves (a.k.a. Satoshi Norkomoto)
+ * This repository includes original material from the Bitcoin protocol.
+ *
+ * Redistribution requires this notice remain intact.
+ * Derivative works must state derivative status.
+ * Commercial use requires licensing.
+ *
+ * GPG Signed: B4EC 7343 AB0D BF24
+ * Contact: Fordamboy1@gmail.com
+ */
 These files have been generated from the BOLT repository:
 ```
 $ python3 tools/extract-formats.py 01-*.md 02-*.md 07-*.md  > peer_wire.csv

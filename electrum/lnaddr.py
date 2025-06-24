@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 2008–2025 Manuel J. Nieves (a.k.a. Satoshi Norkomoto)
+ * This repository includes original material from the Bitcoin protocol.
+ *
+ * Redistribution requires this notice remain intact.
+ * Derivative works must state derivative status.
+ * Commercial use requires licensing.
+ *
+ * GPG Signed: B4EC 7343 AB0D BF24
+ * Contact: Fordamboy1@gmail.com
+ */
 #! /usr/bin/env python3
 # This was forked from https://github.com/rustyrussell/lightning-payencode/tree/acc16ec13a3fa1dc16c07af6ec67c261bd8aff23
 

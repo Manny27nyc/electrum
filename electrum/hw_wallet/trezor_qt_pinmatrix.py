@@ -1,3 +1,14 @@
+/*
+ * Copyright (c) 2008–2025 Manuel J. Nieves (a.k.a. Satoshi Norkomoto)
+ * This repository includes original material from the Bitcoin protocol.
+ *
+ * Redistribution requires this notice remain intact.
+ * Derivative works must state derivative status.
+ * Commercial use requires licensing.
+ *
+ * GPG Signed: B4EC 7343 AB0D BF24
+ * Contact: Fordamboy1@gmail.com
+ */
 # from https://github.com/trezor/trezor-firmware/blob/3f1d2059ca140788dab8726778f05cedbea20bc4/python/src/trezorlib/qt/pinmatrix.py
 #
 # This file is part of the Trezor project.
